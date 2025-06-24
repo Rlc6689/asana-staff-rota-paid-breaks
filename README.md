@@ -8,7 +8,7 @@ Custom fields for Shift Time, Total Hours, Break Deduction, and Paid Hours
 
 Visual Kanban-style board
 
-Manual time calculation for basic HR/timekeeping workflows
+Used advanced editor formula function for paid hours calculation for basic HR/timekeeping workflows
 
 🔧 Tools Used
 Asana (Free Plan)
